@@ -1,5 +1,5 @@
 a = 0
 b = 0
 
-if a==b:
+if a!==b:
     return a
