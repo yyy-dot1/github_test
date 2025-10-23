@@ -2,4 +2,4 @@ a = 0
 b = 0
 
 if a!==b:
-    return b
+    return None
