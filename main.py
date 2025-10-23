@@ -1,2 +1,5 @@
-print("hello")
-print("Welcome to the feature branch!")
+a = 0
+b = 0
+
+if a==b:
+    return a
